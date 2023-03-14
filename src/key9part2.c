@@ -22,5 +22,5 @@ void sub(int *buff1, int len1, int *buff2, int len2, int *result, int *result_le
 */
 int main()
 {
-    
+    return 0;
 }
